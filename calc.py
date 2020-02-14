@@ -1,7 +1,7 @@
 """ Functions for doing calculations. """
 
-def add(left_hand, right_han):
-    return left_hand + right_han
+def add(left_hand, right_hand):
+    return left_hand + right_hand
 
 
 if __name__ == "__main__":
