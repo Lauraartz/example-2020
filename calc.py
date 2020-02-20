@@ -1,5 +1,6 @@
 """ Functions for doing calculations. """
 
+
 def add(lh, rh):
     return lh + rh
 
@@ -8,8 +9,9 @@ def subtract(lh, rh):
     return lh - rh
 
 
-def divide(lh, rh):
+def divide(left_hand, right_hand):
     return lh/rh
+
 
 if __name__ == "__main__":
     print(f"1+2 = {add(1, 2)}")
