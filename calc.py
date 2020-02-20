@@ -8,7 +8,7 @@ def subtract(lh, rh):
     return lh - rh
 
 
-def divide(lh, rh):
+def divide(lefth, righth):
     return lh/rh
 
 if __name__ == "__main__":
